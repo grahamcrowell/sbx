@@ -1,0 +1,31 @@
+How many people are being interviewed?
+  - 3 in person
+  - 3 in pipeline
+
+Who consumes what we build?
+  - applicaion team => UI we load into elastic
+  - "sell thru rate" of a listing title
+  - domain service in front of data storage
+  Where do we get our requirements?
+
+Data sources:
+  Data warehouse
+  Real time pipeline
+
+Rebuild from data warehouse:
+  - optimization
+
+dw (analytics) -> Swift (object store) -> elastic search
+
+How does deployment work at eBay?
+  What is the release cycle?
+
+Where will my code run?
+  Docker?  Kubernetes?
+  - Kubernetes -> company wide
+
+What are the workstations like?
+  MacOS vs linux?
+  laptops?
+
+What are next steps?

@@ -1,0 +1,19 @@
+Bash and linux terminal questions:
+  - do I need to have linux commands memorized?
+  - for example: 
+    - script to parse log file for ERRORs
+    - parallelize script for large files
+    - automate
+
+Language specific questions:
+  - for example:
+    - do I need to be able to debug Java, golang, and/or ruby stack trace?
+    - do I need to be able to find a memory leak in Java?
+
+System Design:
+  - do I need to know CAP
+    - types of consistencies and their tradeoffs
+    - types of availabilty and their tradeoffs
+
+Data Design:
+  

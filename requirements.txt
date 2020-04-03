@@ -1,0 +1,48 @@
+
+# utilities
+click
+python-dotenv
+pyyaml
+jsonschema
+pydantic
+wheel
+
+# dates
+python-dateutil
+pendulum
+
+# testing
+pytest
+pytest-watch
+pytest-cov
+pytest-mock
+pytest-watch
+requests-mock
+
+# linting/formatting
+pylint
+isort
+yapf
+rope
+
+# docs
+m2r
+sphinx
+sphinx_rtd_theme
+sphinxcontrib-napoleon
+sphinxcontrib-mermaid
+pyment
+
+# data science
+scipy
+pandas
+numpy
+matplotlib
+networkx
+
+# web
+flask
+requests
+
+# db
+SQLAlchemy
